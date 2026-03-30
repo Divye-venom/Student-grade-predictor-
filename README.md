@@ -26,5 +26,5 @@ How It Works
 
 Setup & Installation
 1. Clone the Repository:
-git clone https://github.com/yourusername/student-success-predictor.git
+git clone https://github.com/Divye-venom/Student-grade-predictor-
 cd student-success-predictor
